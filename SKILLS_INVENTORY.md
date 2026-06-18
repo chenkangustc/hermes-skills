@@ -2,6 +2,7 @@
 
 > 仓库：`chenkangustc/hermes-skills`
 > 最后更新：2026-06-18
+> 已重命名：知识库 → 技能库
 
 ---
 
@@ -9,8 +10,8 @@
 
 ```
 hermes-skills/
-├── public/          # 📖 公用知识库 — Hermes 默认技能
-│   └── skills/      #    技能文件（按分类组织）
+├── public/          # 📖 公用技能库 — Hermes 默认技能
+│   └── skills/     #    技能文件（按分类组织）
 │       ├── autonomous-ai-agents/
 │       ├── collaboration/
 │       ├── creative/
@@ -26,7 +27,7 @@ hermes-skills/
 │       ├── smart-home/
 │       ├── social-media/
 │       └── software-development/
-├── private/         # 🔒 专用知识库 — 个人开发的技能
+├── private/         # 🔒 专用技能库 — 个人开发的技能
 │                     #   （暂空，待后续添加）
 ├── SKILLS_INVENTORY.md  # 本文 — 技能清单
 └── README.md             # 仓库总说明
@@ -94,7 +95,7 @@ hermes-skills/
 
 | 技能名 | 说明 | 版本 | 路径 |
 |--------|------|------|------|
-| **gongwen-paiban** | 中国公文排版规范（7条铁律）：字体、字号、页面设置、行距、页边距等全套规范。 | — | `public/skills/productivity/gongwen-paiban/` |
+| **gongwen-paiban** | 中国公文排版规范（7条铁律）：字体、字号、页面设置、行距、页边距等全套规范。 | — | `private/productivity/gongwen-paiban/` |
 | **maps** | Geocode, POIs, routes, timezones via OpenStreetMap/OSRM. | — | `public/skills/productivity/maps/` |
 | **nano-pdf** | Edit PDF text/typos/titles via nano-pdf CLI (NL prompts). | — | `public/skills/productivity/nano-pdf/` |
 | **ocr-and-documents** | Extract text from PDFs/scans (pymupdf, marker-pdf). | — | `public/skills/productivity/ocr-and-documents/` |
@@ -154,8 +155,8 @@ hermes-skills/
 | 总技能数 | **22** |
 | 有技能的分类 | 8 |
 | 空分类（骨架） | 8 |
-| 公用知识库 📖 | `public/skills/` — 22 个技能已就位 |
-| 专用知识库 🔒 | `private/` — 等待你添加 |
+| 公用技能库 📖 | `public/skills/` — 22 个技能已就位 |
+| 专用技能库 🔒 | `private/` — 1 个技能 (gongwen-paiban) |
 
 ---
 

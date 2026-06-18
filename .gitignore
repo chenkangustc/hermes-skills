@@ -11,3 +11,7 @@ Thumbs.db
 # Ignore local config
 .env
 *.local
+
+# Ignore Python cache
+__pycache__/
+*.pyc
