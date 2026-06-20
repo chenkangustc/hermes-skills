@@ -12,6 +12,7 @@
 ## 已添加的技能
 
 - [gongwen-paiban](productivity/gongwen-paiban/) — 中国公文排版规范
+- [document-format-skills-reference](productivity/document-format-skills-reference/) — 中文 Word 公文格式 Skill 参考版
 - [official-document-layout-designer](productivity/official-document-layout-designer/) — Codex 公文排版设计师
 
 ---

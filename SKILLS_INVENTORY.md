@@ -96,6 +96,7 @@ hermes-skills/
 | 技能名 | 说明 | 版本 | 路径 |
 |--------|------|------|------|
 | **gongwen-paiban** | 中国公文排版规范（7条铁律）：字体、字号、页面设置、行距、页边距等全套规范。 | — | `private/productivity/gongwen-paiban/` |
+| **document-format-skills-reference** | Upstream reference copy of a Chinese Word document formatting skill toolkit. | — | `private/productivity/document-format-skills-reference/` |
 | **official-document-layout-designer** | Format, clean up, and visually QA Chinese official-document-style Word files and report drafts. | — | `private/productivity/official-document-layout-designer/` |
 | **maps** | Geocode, POIs, routes, timezones via OpenStreetMap/OSRM. | — | `public/skills/productivity/maps/` |
 | **nano-pdf** | Edit PDF text/typos/titles via nano-pdf CLI (NL prompts). | — | `public/skills/productivity/nano-pdf/` |
@@ -153,11 +154,11 @@ hermes-skills/
 
 | 指标 | 数值 |
 |------|------|
-| 总技能数 | **23** |
+| 总技能数 | **24** |
 | 有技能的分类 | 8 |
 | 空分类（骨架） | 8 |
 | 公用技能库 📖 | `public/skills/` — 21 个技能已就位 |
-| 专用技能库 🔒 | `private/` — 2 个技能 (gongwen-paiban, official-document-layout-designer) |
+| 专用技能库 🔒 | `private/` — 3 个技能 (gongwen-paiban, document-format-skills-reference, official-document-layout-designer) |
 
 ---
 
