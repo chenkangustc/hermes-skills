@@ -1,0 +1,4 @@
+interface:
+  display_name: "固定文体材料写作"
+  short_description: "生成和整理事项跟踪单、会议纪要等固定文体材料。"
+  default_prompt: "Use $fixed-official-document-writer to create a 事项跟踪单 or 会议纪要 with the required structure and Word-ready formatting."

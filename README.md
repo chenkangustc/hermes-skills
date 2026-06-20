@@ -6,7 +6,7 @@
 
 ```
 📖 public/          ← 公用技能库：Hermes 系统默认技能（21 个）
-🔒 private/         ← 专用技能库：个人开发与参考技能（3 个）
+🔒 private/         ← 专用技能库：个人开发与参考技能（4 个）
 📋 SKILLS_INVENTORY.md  ← 完整技能清单
 ```
 
