@@ -9,10 +9,11 @@
 3. 可选辅助文件：`references/`、`templates/`、`scripts/`
 4. 提交到 Git 仓库
 
-## 待添加的技能
+## 已添加的技能
 
-- （请在此处记录你添加的技能）
+- [gongwen-paiban](productivity/gongwen-paiban/) — 中国公文排版规范
+- [official-document-layout-designer](productivity/official-document-layout-designer/) — Codex 公文排版设计师
 
 ---
 
-*此目录当前为空 — 等待你添加第一个技能 🚀*
+*此目录用于存放个人开发的专用技能。*

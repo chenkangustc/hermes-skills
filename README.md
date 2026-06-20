@@ -5,8 +5,8 @@
 ## 目录结构
 
 ```
-📖 public/          ← 公用技能库：Hermes 系统默认技能（22 个）
-🔒 private/         ← 专用技能库：个人开发的技能（待添加）
+📖 public/          ← 公用技能库：Hermes 系统默认技能（21 个）
+🔒 private/         ← 专用技能库：个人开发的技能（2 个）
 📋 SKILLS_INVENTORY.md  ← 完整技能清单
 ```
 
@@ -14,7 +14,7 @@
 
 - [📋 技能清单](SKILLS_INVENTORY.md) — 查看所有技能及说明
 - [📖 公用技能库](public/skills/) — 默认技能文件
-- [🔒 专用技能库](private/) — 个人技能（待填充）
+- [🔒 专用技能库](private/) — 个人技能
 
 ## 维护者
 
