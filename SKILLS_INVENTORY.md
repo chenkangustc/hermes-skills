@@ -134,7 +134,17 @@ hermes-skills/
 
 ---
 
-### 9️⃣ 其他分类（暂未包含技能，仅有分类目录）
+### 9️⃣ social-media — 社交媒体
+
+> Skills for interacting with social platforms — posting, reading, monitoring, and account operations.
+
+| 技能名 | 说明 | 版本 | 路径 |
+|--------|------|------|------|
+| **hermes-tweet** | Search Twitter/X, read tweet replies, look up users, monitor tweets, export followers, and gate X actions through Xquik. | v0.1.6 | `public/skills/social-media/hermes-tweet/` |
+
+---
+
+### 🔟 其他分类（暂未包含技能，仅有分类目录）
 
 以下分类目录已存在，可作为知识库骨架，待后续填充技能：
 
@@ -147,7 +157,6 @@ hermes-skills/
 | **mlops** | Knowledge and Tools for Machine Learning Operations — training, fine-tuning, deploying, and optimizing ML/AI models. |
 | **note-taking** | Note taking skills, to save information, assist with research, and collab on multi-session planning. |
 | **smart-home** | Skills for controlling smart home devices — lights, switches, sensors, and home automation systems. |
-| **social-media** | Skills for interacting with social platforms — posting, reading, monitoring, and account operations. |
 
 ---
 
@@ -155,10 +164,10 @@ hermes-skills/
 
 | 指标 | 数值 |
 |------|------|
-| 总技能数 | **25** |
-| 有技能的分类 | 8 |
-| 空分类（骨架） | 8 |
-| 公用技能库 📖 | `public/skills/` — 21 个技能已就位 |
+| 总技能数 | **26** |
+| 有技能的分类 | 9 |
+| 空分类（骨架） | 7 |
+| 公用技能库 📖 | `public/skills/` — 22 个技能已就位 |
 | 专用技能库 🔒 | `private/` — 4 个技能 (gongwen-paiban, document-format-skills-reference, fixed-official-document-writer, official-document-layout-designer) |
 
 ---

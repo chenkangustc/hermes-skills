@@ -16,6 +16,11 @@
 - [📖 公用技能库](public/skills/) — 默认技能文件
 - [🔒 专用技能库](private/) — 个人技能
 
+## 新增社交媒体技能
+
+- `public/skills/social-media/hermes-tweet/` - Hermes Tweet 插件包装说明，用于
+  X/Twitter 搜索、推文读取、账号监控、粉丝导出和显式批准后的动作执行。
+
 ## 维护者
 
 @chenkangustc
